@@ -3,13 +3,13 @@ print("hello world")
 #Spelling Mistake in print
 prnt("Hello World!")
 
-Uppercase 'P' in print
+#Uppercase 'P' in print
 Print("hello World!")
 
-Missing quotes
+#Missing quotes
 print(Hello world!)
       
-Missing parentheses
+#Missing parentheses
 print("Hello world!"
       
       #Printing Without Quotes
